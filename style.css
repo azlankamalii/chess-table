@@ -1,0 +1,27 @@
+.bordr{
+    border-color: rgb(48, 48, 128);
+    font-size: 50px;
+    text-align: center;    
+    width: 50%;
+}
+
+td{
+    height: 70px;
+}
+
+.black{
+    background-color: white;
+    
+}
+
+.white{
+    background-color: black;
+    color: white;       
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+    color: rgb(94, 73, 87);
+}
